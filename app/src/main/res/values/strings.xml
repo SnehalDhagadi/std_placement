@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">std_placement</string>
+    <string name="logo">logo</string>
+    <string name="login">Login</string>
+    <string name="admin">Admin</string>
+    <string name="help">Help!</string>
+</resources>
